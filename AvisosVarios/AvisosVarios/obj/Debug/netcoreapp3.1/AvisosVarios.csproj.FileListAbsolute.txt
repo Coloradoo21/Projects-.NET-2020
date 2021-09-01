@@ -1,0 +1,13 @@
+C:\Users\Usuario\source\repos\AvisosVarios\AvisosVarios\bin\Debug\netcoreapp3.1\AvisosVarios.exe
+C:\Users\Usuario\source\repos\AvisosVarios\AvisosVarios\bin\Debug\netcoreapp3.1\AvisosVarios.deps.json
+C:\Users\Usuario\source\repos\AvisosVarios\AvisosVarios\bin\Debug\netcoreapp3.1\AvisosVarios.runtimeconfig.json
+C:\Users\Usuario\source\repos\AvisosVarios\AvisosVarios\bin\Debug\netcoreapp3.1\AvisosVarios.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\AvisosVarios\AvisosVarios\bin\Debug\netcoreapp3.1\AvisosVarios.dll
+C:\Users\Usuario\source\repos\AvisosVarios\AvisosVarios\bin\Debug\netcoreapp3.1\AvisosVarios.pdb
+C:\Users\Usuario\source\repos\AvisosVarios\AvisosVarios\obj\Debug\netcoreapp3.1\AvisosVarios.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\AvisosVarios\AvisosVarios\obj\Debug\netcoreapp3.1\AvisosVarios.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\AvisosVarios\AvisosVarios\obj\Debug\netcoreapp3.1\AvisosVarios.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\AvisosVarios\AvisosVarios\obj\Debug\netcoreapp3.1\AvisosVarios.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\AvisosVarios\AvisosVarios\obj\Debug\netcoreapp3.1\AvisosVarios.dll
+C:\Users\Usuario\source\repos\AvisosVarios\AvisosVarios\obj\Debug\netcoreapp3.1\AvisosVarios.pdb
+C:\Users\Usuario\source\repos\AvisosVarios\AvisosVarios\obj\Debug\netcoreapp3.1\AvisosVarios.genruntimeconfig.cache
