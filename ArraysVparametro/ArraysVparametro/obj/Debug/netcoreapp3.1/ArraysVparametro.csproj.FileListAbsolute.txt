@@ -1,0 +1,13 @@
+C:\Users\Usuario\source\repos\ArraysVparametro\ArraysVparametro\bin\Debug\netcoreapp3.1\ArraysVparametro.exe
+C:\Users\Usuario\source\repos\ArraysVparametro\ArraysVparametro\bin\Debug\netcoreapp3.1\ArraysVparametro.deps.json
+C:\Users\Usuario\source\repos\ArraysVparametro\ArraysVparametro\bin\Debug\netcoreapp3.1\ArraysVparametro.runtimeconfig.json
+C:\Users\Usuario\source\repos\ArraysVparametro\ArraysVparametro\bin\Debug\netcoreapp3.1\ArraysVparametro.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\ArraysVparametro\ArraysVparametro\bin\Debug\netcoreapp3.1\ArraysVparametro.dll
+C:\Users\Usuario\source\repos\ArraysVparametro\ArraysVparametro\bin\Debug\netcoreapp3.1\ArraysVparametro.pdb
+C:\Users\Usuario\source\repos\ArraysVparametro\ArraysVparametro\obj\Debug\netcoreapp3.1\ArraysVparametro.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\ArraysVparametro\ArraysVparametro\obj\Debug\netcoreapp3.1\ArraysVparametro.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\ArraysVparametro\ArraysVparametro\obj\Debug\netcoreapp3.1\ArraysVparametro.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\ArraysVparametro\ArraysVparametro\obj\Debug\netcoreapp3.1\ArraysVparametro.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ArraysVparametro\ArraysVparametro\obj\Debug\netcoreapp3.1\ArraysVparametro.dll
+C:\Users\Usuario\source\repos\ArraysVparametro\ArraysVparametro\obj\Debug\netcoreapp3.1\ArraysVparametro.pdb
+C:\Users\Usuario\source\repos\ArraysVparametro\ArraysVparametro\obj\Debug\netcoreapp3.1\ArraysVparametro.genruntimeconfig.cache
