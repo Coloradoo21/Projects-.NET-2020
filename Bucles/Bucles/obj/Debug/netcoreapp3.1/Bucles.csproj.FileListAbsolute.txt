@@ -1,0 +1,13 @@
+C:\Users\Usuario\source\repos\Bucles\Bucles\bin\Debug\netcoreapp3.1\Bucles.exe
+C:\Users\Usuario\source\repos\Bucles\Bucles\bin\Debug\netcoreapp3.1\Bucles.deps.json
+C:\Users\Usuario\source\repos\Bucles\Bucles\bin\Debug\netcoreapp3.1\Bucles.runtimeconfig.json
+C:\Users\Usuario\source\repos\Bucles\Bucles\bin\Debug\netcoreapp3.1\Bucles.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Bucles\Bucles\bin\Debug\netcoreapp3.1\Bucles.dll
+C:\Users\Usuario\source\repos\Bucles\Bucles\bin\Debug\netcoreapp3.1\Bucles.pdb
+C:\Users\Usuario\source\repos\Bucles\Bucles\obj\Debug\netcoreapp3.1\Bucles.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Bucles\Bucles\obj\Debug\netcoreapp3.1\Bucles.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Bucles\Bucles\obj\Debug\netcoreapp3.1\Bucles.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Bucles\Bucles\obj\Debug\netcoreapp3.1\Bucles.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Bucles\Bucles\obj\Debug\netcoreapp3.1\Bucles.dll
+C:\Users\Usuario\source\repos\Bucles\Bucles\obj\Debug\netcoreapp3.1\Bucles.pdb
+C:\Users\Usuario\source\repos\Bucles\Bucles\obj\Debug\netcoreapp3.1\Bucles.genruntimeconfig.cache
