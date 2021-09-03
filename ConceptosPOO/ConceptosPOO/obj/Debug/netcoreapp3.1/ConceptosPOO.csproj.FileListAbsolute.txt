@@ -1,0 +1,13 @@
+C:\Users\Usuario\source\repos\ConceptosPOO\ConceptosPOO\bin\Debug\netcoreapp3.1\ConceptosPOO.exe
+C:\Users\Usuario\source\repos\ConceptosPOO\ConceptosPOO\bin\Debug\netcoreapp3.1\ConceptosPOO.deps.json
+C:\Users\Usuario\source\repos\ConceptosPOO\ConceptosPOO\bin\Debug\netcoreapp3.1\ConceptosPOO.runtimeconfig.json
+C:\Users\Usuario\source\repos\ConceptosPOO\ConceptosPOO\bin\Debug\netcoreapp3.1\ConceptosPOO.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\ConceptosPOO\ConceptosPOO\bin\Debug\netcoreapp3.1\ConceptosPOO.dll
+C:\Users\Usuario\source\repos\ConceptosPOO\ConceptosPOO\bin\Debug\netcoreapp3.1\ConceptosPOO.pdb
+C:\Users\Usuario\source\repos\ConceptosPOO\ConceptosPOO\obj\Debug\netcoreapp3.1\ConceptosPOO.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\ConceptosPOO\ConceptosPOO\obj\Debug\netcoreapp3.1\ConceptosPOO.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\ConceptosPOO\ConceptosPOO\obj\Debug\netcoreapp3.1\ConceptosPOO.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\ConceptosPOO\ConceptosPOO\obj\Debug\netcoreapp3.1\ConceptosPOO.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ConceptosPOO\ConceptosPOO\obj\Debug\netcoreapp3.1\ConceptosPOO.dll
+C:\Users\Usuario\source\repos\ConceptosPOO\ConceptosPOO\obj\Debug\netcoreapp3.1\ConceptosPOO.pdb
+C:\Users\Usuario\source\repos\ConceptosPOO\ConceptosPOO\obj\Debug\netcoreapp3.1\ConceptosPOO.genruntimeconfig.cache
