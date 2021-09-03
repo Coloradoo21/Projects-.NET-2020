@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\DataBinding\DataBinding\bin\Debug\netcoreapp3.1\DataBinding.exe
+C:\Users\Usuario\source\repos\DataBinding\DataBinding\bin\Debug\netcoreapp3.1\DataBinding.deps.json
+C:\Users\Usuario\source\repos\DataBinding\DataBinding\bin\Debug\netcoreapp3.1\DataBinding.runtimeconfig.json
+C:\Users\Usuario\source\repos\DataBinding\DataBinding\bin\Debug\netcoreapp3.1\DataBinding.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\DataBinding\DataBinding\bin\Debug\netcoreapp3.1\DataBinding.dll
+C:\Users\Usuario\source\repos\DataBinding\DataBinding\bin\Debug\netcoreapp3.1\DataBinding.pdb
+C:\Users\Usuario\source\repos\DataBinding\DataBinding\obj\Debug\netcoreapp3.1\DataBinding.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\DataBinding\DataBinding\obj\Debug\netcoreapp3.1\DataBinding.Form1.resources
+C:\Users\Usuario\source\repos\DataBinding\DataBinding\obj\Debug\netcoreapp3.1\DataBinding.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\DataBinding\DataBinding\obj\Debug\netcoreapp3.1\DataBinding.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\DataBinding\DataBinding\obj\Debug\netcoreapp3.1\DataBinding.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\DataBinding\DataBinding\obj\Debug\netcoreapp3.1\DataBinding.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\DataBinding\DataBinding\obj\Debug\netcoreapp3.1\DataBinding.dll
+C:\Users\Usuario\source\repos\DataBinding\DataBinding\obj\Debug\netcoreapp3.1\DataBinding.pdb
+C:\Users\Usuario\source\repos\DataBinding\DataBinding\obj\Debug\netcoreapp3.1\DataBinding.genruntimeconfig.cache
