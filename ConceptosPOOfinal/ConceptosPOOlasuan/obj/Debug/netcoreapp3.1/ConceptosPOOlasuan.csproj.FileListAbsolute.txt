@@ -1,0 +1,13 @@
+C:\Users\Usuario\source\repos\ConceptosPOOlasuan\ConceptosPOOlasuan\bin\Debug\netcoreapp3.1\ConceptosPOOlasuan.exe
+C:\Users\Usuario\source\repos\ConceptosPOOlasuan\ConceptosPOOlasuan\bin\Debug\netcoreapp3.1\ConceptosPOOlasuan.deps.json
+C:\Users\Usuario\source\repos\ConceptosPOOlasuan\ConceptosPOOlasuan\bin\Debug\netcoreapp3.1\ConceptosPOOlasuan.runtimeconfig.json
+C:\Users\Usuario\source\repos\ConceptosPOOlasuan\ConceptosPOOlasuan\bin\Debug\netcoreapp3.1\ConceptosPOOlasuan.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\ConceptosPOOlasuan\ConceptosPOOlasuan\bin\Debug\netcoreapp3.1\ConceptosPOOlasuan.dll
+C:\Users\Usuario\source\repos\ConceptosPOOlasuan\ConceptosPOOlasuan\bin\Debug\netcoreapp3.1\ConceptosPOOlasuan.pdb
+C:\Users\Usuario\source\repos\ConceptosPOOlasuan\ConceptosPOOlasuan\obj\Debug\netcoreapp3.1\ConceptosPOOlasuan.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\ConceptosPOOlasuan\ConceptosPOOlasuan\obj\Debug\netcoreapp3.1\ConceptosPOOlasuan.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\ConceptosPOOlasuan\ConceptosPOOlasuan\obj\Debug\netcoreapp3.1\ConceptosPOOlasuan.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\ConceptosPOOlasuan\ConceptosPOOlasuan\obj\Debug\netcoreapp3.1\ConceptosPOOlasuan.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ConceptosPOOlasuan\ConceptosPOOlasuan\obj\Debug\netcoreapp3.1\ConceptosPOOlasuan.dll
+C:\Users\Usuario\source\repos\ConceptosPOOlasuan\ConceptosPOOlasuan\obj\Debug\netcoreapp3.1\ConceptosPOOlasuan.pdb
+C:\Users\Usuario\source\repos\ConceptosPOOlasuan\ConceptosPOOlasuan\obj\Debug\netcoreapp3.1\ConceptosPOOlasuan.genruntimeconfig.cache
