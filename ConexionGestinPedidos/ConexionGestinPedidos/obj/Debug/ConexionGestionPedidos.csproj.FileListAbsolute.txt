@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\ConexionGestinPedidos\ConexionGestinPedidos\bin\Debug\ConexionGestinPedidos.exe.config
+C:\Users\Usuario\source\repos\ConexionGestinPedidos\ConexionGestinPedidos\bin\Debug\ConexionGestinPedidos.exe
+C:\Users\Usuario\source\repos\ConexionGestinPedidos\ConexionGestinPedidos\bin\Debug\ConexionGestinPedidos.pdb
+C:\Users\Usuario\source\repos\ConexionGestinPedidos\ConexionGestinPedidos\obj\Debug\ConexionGestionPedidos.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\ConexionGestinPedidos\ConexionGestinPedidos\obj\Debug\MainWindow.g.cs
+C:\Users\Usuario\source\repos\ConexionGestinPedidos\ConexionGestinPedidos\obj\Debug\App.g.cs
+C:\Users\Usuario\source\repos\ConexionGestinPedidos\ConexionGestinPedidos\obj\Debug\ConexionGestinPedidos_MarkupCompile.cache
+C:\Users\Usuario\source\repos\ConexionGestinPedidos\ConexionGestinPedidos\obj\Debug\ConexionGestinPedidos_MarkupCompile.lref
+C:\Users\Usuario\source\repos\ConexionGestinPedidos\ConexionGestinPedidos\obj\Debug\MainWindow.baml
+C:\Users\Usuario\source\repos\ConexionGestinPedidos\ConexionGestinPedidos\obj\Debug\ConexionGestinPedidos.g.resources
+C:\Users\Usuario\source\repos\ConexionGestinPedidos\ConexionGestinPedidos\obj\Debug\ConexionGestinPedidos.Properties.Resources.resources
+C:\Users\Usuario\source\repos\ConexionGestinPedidos\ConexionGestinPedidos\obj\Debug\ConexionGestionPedidos.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\ConexionGestinPedidos\ConexionGestinPedidos\obj\Debug\ConexionGestionPedidos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ConexionGestinPedidos\ConexionGestinPedidos\obj\Debug\ConexionGestinPedidos.exe
+C:\Users\Usuario\source\repos\ConexionGestinPedidos\ConexionGestinPedidos\obj\Debug\ConexionGestinPedidos.pdb
