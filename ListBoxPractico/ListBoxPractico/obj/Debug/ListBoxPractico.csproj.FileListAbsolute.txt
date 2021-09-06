@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\ListBoxPractico\ListBoxPractico\bin\Debug\ListBoxPractico.exe.config
+C:\Users\Usuario\source\repos\ListBoxPractico\ListBoxPractico\bin\Debug\ListBoxPractico.exe
+C:\Users\Usuario\source\repos\ListBoxPractico\ListBoxPractico\bin\Debug\ListBoxPractico.pdb
+C:\Users\Usuario\source\repos\ListBoxPractico\ListBoxPractico\obj\Debug\ListBoxPractico.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\ListBoxPractico\ListBoxPractico\obj\Debug\MainWindow.g.cs
+C:\Users\Usuario\source\repos\ListBoxPractico\ListBoxPractico\obj\Debug\App.g.cs
+C:\Users\Usuario\source\repos\ListBoxPractico\ListBoxPractico\obj\Debug\ListBoxPractico_MarkupCompile.cache
+C:\Users\Usuario\source\repos\ListBoxPractico\ListBoxPractico\obj\Debug\ListBoxPractico_MarkupCompile.lref
+C:\Users\Usuario\source\repos\ListBoxPractico\ListBoxPractico\obj\Debug\MainWindow.baml
+C:\Users\Usuario\source\repos\ListBoxPractico\ListBoxPractico\obj\Debug\ListBoxPractico.g.resources
+C:\Users\Usuario\source\repos\ListBoxPractico\ListBoxPractico\obj\Debug\ListBoxPractico.Properties.Resources.resources
+C:\Users\Usuario\source\repos\ListBoxPractico\ListBoxPractico\obj\Debug\ListBoxPractico.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\ListBoxPractico\ListBoxPractico\obj\Debug\ListBoxPractico.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ListBoxPractico\ListBoxPractico\obj\Debug\ListBoxPractico.exe
+C:\Users\Usuario\source\repos\ListBoxPractico\ListBoxPractico\obj\Debug\ListBoxPractico.pdb
