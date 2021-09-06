@@ -1,0 +1,13 @@
+C:\Users\Usuario\source\repos\ExcepcionFinally\ExcepcionFinally\bin\Debug\netcoreapp3.1\ExcepcionFinally.exe
+C:\Users\Usuario\source\repos\ExcepcionFinally\ExcepcionFinally\bin\Debug\netcoreapp3.1\ExcepcionFinally.deps.json
+C:\Users\Usuario\source\repos\ExcepcionFinally\ExcepcionFinally\bin\Debug\netcoreapp3.1\ExcepcionFinally.runtimeconfig.json
+C:\Users\Usuario\source\repos\ExcepcionFinally\ExcepcionFinally\bin\Debug\netcoreapp3.1\ExcepcionFinally.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\ExcepcionFinally\ExcepcionFinally\bin\Debug\netcoreapp3.1\ExcepcionFinally.dll
+C:\Users\Usuario\source\repos\ExcepcionFinally\ExcepcionFinally\bin\Debug\netcoreapp3.1\ExcepcionFinally.pdb
+C:\Users\Usuario\source\repos\ExcepcionFinally\ExcepcionFinally\obj\Debug\netcoreapp3.1\ExcepcionFinally.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\ExcepcionFinally\ExcepcionFinally\obj\Debug\netcoreapp3.1\ExcepcionFinally.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\ExcepcionFinally\ExcepcionFinally\obj\Debug\netcoreapp3.1\ExcepcionFinally.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\ExcepcionFinally\ExcepcionFinally\obj\Debug\netcoreapp3.1\ExcepcionFinally.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ExcepcionFinally\ExcepcionFinally\obj\Debug\netcoreapp3.1\ExcepcionFinally.dll
+C:\Users\Usuario\source\repos\ExcepcionFinally\ExcepcionFinally\obj\Debug\netcoreapp3.1\ExcepcionFinally.pdb
+C:\Users\Usuario\source\repos\ExcepcionFinally\ExcepcionFinally\obj\Debug\netcoreapp3.1\ExcepcionFinally.genruntimeconfig.cache
