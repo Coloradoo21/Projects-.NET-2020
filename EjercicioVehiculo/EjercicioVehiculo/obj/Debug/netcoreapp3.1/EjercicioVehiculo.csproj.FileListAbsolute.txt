@@ -1,0 +1,13 @@
+C:\Users\Usuario\source\repos\EjercicioVehiculo\EjercicioVehiculo\bin\Debug\netcoreapp3.1\EjercicioVehiculo.exe
+C:\Users\Usuario\source\repos\EjercicioVehiculo\EjercicioVehiculo\bin\Debug\netcoreapp3.1\EjercicioVehiculo.deps.json
+C:\Users\Usuario\source\repos\EjercicioVehiculo\EjercicioVehiculo\bin\Debug\netcoreapp3.1\EjercicioVehiculo.runtimeconfig.json
+C:\Users\Usuario\source\repos\EjercicioVehiculo\EjercicioVehiculo\bin\Debug\netcoreapp3.1\EjercicioVehiculo.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\EjercicioVehiculo\EjercicioVehiculo\bin\Debug\netcoreapp3.1\EjercicioVehiculo.dll
+C:\Users\Usuario\source\repos\EjercicioVehiculo\EjercicioVehiculo\bin\Debug\netcoreapp3.1\EjercicioVehiculo.pdb
+C:\Users\Usuario\source\repos\EjercicioVehiculo\EjercicioVehiculo\obj\Debug\netcoreapp3.1\EjercicioVehiculo.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\EjercicioVehiculo\EjercicioVehiculo\obj\Debug\netcoreapp3.1\EjercicioVehiculo.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\EjercicioVehiculo\EjercicioVehiculo\obj\Debug\netcoreapp3.1\EjercicioVehiculo.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\EjercicioVehiculo\EjercicioVehiculo\obj\Debug\netcoreapp3.1\EjercicioVehiculo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\EjercicioVehiculo\EjercicioVehiculo\obj\Debug\netcoreapp3.1\EjercicioVehiculo.dll
+C:\Users\Usuario\source\repos\EjercicioVehiculo\EjercicioVehiculo\obj\Debug\netcoreapp3.1\EjercicioVehiculo.pdb
+C:\Users\Usuario\source\repos\EjercicioVehiculo\EjercicioVehiculo\obj\Debug\netcoreapp3.1\EjercicioVehiculo.genruntimeconfig.cache
