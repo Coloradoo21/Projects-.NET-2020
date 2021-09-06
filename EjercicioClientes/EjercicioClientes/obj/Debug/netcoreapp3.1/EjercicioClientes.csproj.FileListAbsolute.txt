@@ -1,0 +1,13 @@
+C:\Users\Usuario\source\repos\EjercicioClientes\EjercicioClientes\obj\Debug\netcoreapp3.1\EjercicioClientes.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\EjercicioClientes\EjercicioClientes\obj\Debug\netcoreapp3.1\EjercicioClientes.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\EjercicioClientes\EjercicioClientes\obj\Debug\netcoreapp3.1\EjercicioClientes.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\EjercicioClientes\EjercicioClientes\obj\Debug\netcoreapp3.1\EjercicioClientes.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\EjercicioClientes\EjercicioClientes\bin\Debug\netcoreapp3.1\EjercicioClientes.exe
+C:\Users\Usuario\source\repos\EjercicioClientes\EjercicioClientes\bin\Debug\netcoreapp3.1\EjercicioClientes.deps.json
+C:\Users\Usuario\source\repos\EjercicioClientes\EjercicioClientes\bin\Debug\netcoreapp3.1\EjercicioClientes.runtimeconfig.json
+C:\Users\Usuario\source\repos\EjercicioClientes\EjercicioClientes\bin\Debug\netcoreapp3.1\EjercicioClientes.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\EjercicioClientes\EjercicioClientes\bin\Debug\netcoreapp3.1\EjercicioClientes.dll
+C:\Users\Usuario\source\repos\EjercicioClientes\EjercicioClientes\bin\Debug\netcoreapp3.1\EjercicioClientes.pdb
+C:\Users\Usuario\source\repos\EjercicioClientes\EjercicioClientes\obj\Debug\netcoreapp3.1\EjercicioClientes.dll
+C:\Users\Usuario\source\repos\EjercicioClientes\EjercicioClientes\obj\Debug\netcoreapp3.1\EjercicioClientes.pdb
+C:\Users\Usuario\source\repos\EjercicioClientes\EjercicioClientes\obj\Debug\netcoreapp3.1\EjercicioClientes.genruntimeconfig.cache
