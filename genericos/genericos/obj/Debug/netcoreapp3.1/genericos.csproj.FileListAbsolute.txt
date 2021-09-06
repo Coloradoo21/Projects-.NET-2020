@@ -1,0 +1,13 @@
+C:\Users\Usuario\source\repos\genericos\genericos\bin\Debug\netcoreapp3.1\genericos.exe
+C:\Users\Usuario\source\repos\genericos\genericos\bin\Debug\netcoreapp3.1\genericos.deps.json
+C:\Users\Usuario\source\repos\genericos\genericos\bin\Debug\netcoreapp3.1\genericos.runtimeconfig.json
+C:\Users\Usuario\source\repos\genericos\genericos\bin\Debug\netcoreapp3.1\genericos.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\genericos\genericos\bin\Debug\netcoreapp3.1\genericos.dll
+C:\Users\Usuario\source\repos\genericos\genericos\bin\Debug\netcoreapp3.1\genericos.pdb
+C:\Users\Usuario\source\repos\genericos\genericos\obj\Debug\netcoreapp3.1\genericos.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\genericos\genericos\obj\Debug\netcoreapp3.1\genericos.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\genericos\genericos\obj\Debug\netcoreapp3.1\genericos.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\genericos\genericos\obj\Debug\netcoreapp3.1\genericos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\genericos\genericos\obj\Debug\netcoreapp3.1\genericos.dll
+C:\Users\Usuario\source\repos\genericos\genericos\obj\Debug\netcoreapp3.1\genericos.pdb
+C:\Users\Usuario\source\repos\genericos\genericos\obj\Debug\netcoreapp3.1\genericos.genruntimeconfig.cache
