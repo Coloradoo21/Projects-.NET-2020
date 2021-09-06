@@ -1,0 +1,13 @@
+C:\Users\Usuario\source\repos\ExcepcionesPractica\ExcepcionesPractica\bin\Debug\netcoreapp3.1\ExcepcionesPractica.exe
+C:\Users\Usuario\source\repos\ExcepcionesPractica\ExcepcionesPractica\bin\Debug\netcoreapp3.1\ExcepcionesPractica.deps.json
+C:\Users\Usuario\source\repos\ExcepcionesPractica\ExcepcionesPractica\bin\Debug\netcoreapp3.1\ExcepcionesPractica.runtimeconfig.json
+C:\Users\Usuario\source\repos\ExcepcionesPractica\ExcepcionesPractica\bin\Debug\netcoreapp3.1\ExcepcionesPractica.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\ExcepcionesPractica\ExcepcionesPractica\bin\Debug\netcoreapp3.1\ExcepcionesPractica.dll
+C:\Users\Usuario\source\repos\ExcepcionesPractica\ExcepcionesPractica\bin\Debug\netcoreapp3.1\ExcepcionesPractica.pdb
+C:\Users\Usuario\source\repos\ExcepcionesPractica\ExcepcionesPractica\obj\Debug\netcoreapp3.1\ExcepcionesPractica.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\ExcepcionesPractica\ExcepcionesPractica\obj\Debug\netcoreapp3.1\ExcepcionesPractica.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\ExcepcionesPractica\ExcepcionesPractica\obj\Debug\netcoreapp3.1\ExcepcionesPractica.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\ExcepcionesPractica\ExcepcionesPractica\obj\Debug\netcoreapp3.1\ExcepcionesPractica.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ExcepcionesPractica\ExcepcionesPractica\obj\Debug\netcoreapp3.1\ExcepcionesPractica.dll
+C:\Users\Usuario\source\repos\ExcepcionesPractica\ExcepcionesPractica\obj\Debug\netcoreapp3.1\ExcepcionesPractica.pdb
+C:\Users\Usuario\source\repos\ExcepcionesPractica\ExcepcionesPractica\obj\Debug\netcoreapp3.1\ExcepcionesPractica.genruntimeconfig.cache
