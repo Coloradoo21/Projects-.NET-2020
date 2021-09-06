@@ -1,0 +1,13 @@
+C:\Users\Usuario\source\repos\PerimetroTriangulo\PerimetroTriangulo\bin\Debug\netcoreapp3.1\PerimetroTriangulo.exe
+C:\Users\Usuario\source\repos\PerimetroTriangulo\PerimetroTriangulo\bin\Debug\netcoreapp3.1\PerimetroTriangulo.deps.json
+C:\Users\Usuario\source\repos\PerimetroTriangulo\PerimetroTriangulo\bin\Debug\netcoreapp3.1\PerimetroTriangulo.runtimeconfig.json
+C:\Users\Usuario\source\repos\PerimetroTriangulo\PerimetroTriangulo\bin\Debug\netcoreapp3.1\PerimetroTriangulo.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\PerimetroTriangulo\PerimetroTriangulo\bin\Debug\netcoreapp3.1\PerimetroTriangulo.dll
+C:\Users\Usuario\source\repos\PerimetroTriangulo\PerimetroTriangulo\bin\Debug\netcoreapp3.1\PerimetroTriangulo.pdb
+C:\Users\Usuario\source\repos\PerimetroTriangulo\PerimetroTriangulo\obj\Debug\netcoreapp3.1\PerimetroTriangulo.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\PerimetroTriangulo\PerimetroTriangulo\obj\Debug\netcoreapp3.1\PerimetroTriangulo.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\PerimetroTriangulo\PerimetroTriangulo\obj\Debug\netcoreapp3.1\PerimetroTriangulo.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\PerimetroTriangulo\PerimetroTriangulo\obj\Debug\netcoreapp3.1\PerimetroTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\PerimetroTriangulo\PerimetroTriangulo\obj\Debug\netcoreapp3.1\PerimetroTriangulo.dll
+C:\Users\Usuario\source\repos\PerimetroTriangulo\PerimetroTriangulo\obj\Debug\netcoreapp3.1\PerimetroTriangulo.pdb
+C:\Users\Usuario\source\repos\PerimetroTriangulo\PerimetroTriangulo\obj\Debug\netcoreapp3.1\PerimetroTriangulo.genruntimeconfig.cache
