@@ -1,0 +1,13 @@
+C:\Users\Usuario\source\repos\ProyectoHerencia\ProyectoHerencia\bin\Debug\netcoreapp3.1\ProyectoHerencia.exe
+C:\Users\Usuario\source\repos\ProyectoHerencia\ProyectoHerencia\bin\Debug\netcoreapp3.1\ProyectoHerencia.deps.json
+C:\Users\Usuario\source\repos\ProyectoHerencia\ProyectoHerencia\bin\Debug\netcoreapp3.1\ProyectoHerencia.runtimeconfig.json
+C:\Users\Usuario\source\repos\ProyectoHerencia\ProyectoHerencia\bin\Debug\netcoreapp3.1\ProyectoHerencia.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\ProyectoHerencia\ProyectoHerencia\bin\Debug\netcoreapp3.1\ProyectoHerencia.dll
+C:\Users\Usuario\source\repos\ProyectoHerencia\ProyectoHerencia\bin\Debug\netcoreapp3.1\ProyectoHerencia.pdb
+C:\Users\Usuario\source\repos\ProyectoHerencia\ProyectoHerencia\obj\Debug\netcoreapp3.1\ProyectoHerencia.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\ProyectoHerencia\ProyectoHerencia\obj\Debug\netcoreapp3.1\ProyectoHerencia.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\ProyectoHerencia\ProyectoHerencia\obj\Debug\netcoreapp3.1\ProyectoHerencia.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\ProyectoHerencia\ProyectoHerencia\obj\Debug\netcoreapp3.1\ProyectoHerencia.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ProyectoHerencia\ProyectoHerencia\obj\Debug\netcoreapp3.1\ProyectoHerencia.dll
+C:\Users\Usuario\source\repos\ProyectoHerencia\ProyectoHerencia\obj\Debug\netcoreapp3.1\ProyectoHerencia.pdb
+C:\Users\Usuario\source\repos\ProyectoHerencia\ProyectoHerencia\obj\Debug\netcoreapp3.1\ProyectoHerencia.genruntimeconfig.cache
