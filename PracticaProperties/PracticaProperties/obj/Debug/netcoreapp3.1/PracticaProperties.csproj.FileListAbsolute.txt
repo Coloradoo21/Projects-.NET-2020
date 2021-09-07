@@ -1,0 +1,13 @@
+C:\Users\Usuario\source\repos\PracticaProperties\PracticaProperties\bin\Debug\netcoreapp3.1\PracticaProperties.exe
+C:\Users\Usuario\source\repos\PracticaProperties\PracticaProperties\bin\Debug\netcoreapp3.1\PracticaProperties.deps.json
+C:\Users\Usuario\source\repos\PracticaProperties\PracticaProperties\bin\Debug\netcoreapp3.1\PracticaProperties.runtimeconfig.json
+C:\Users\Usuario\source\repos\PracticaProperties\PracticaProperties\bin\Debug\netcoreapp3.1\PracticaProperties.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\PracticaProperties\PracticaProperties\bin\Debug\netcoreapp3.1\PracticaProperties.dll
+C:\Users\Usuario\source\repos\PracticaProperties\PracticaProperties\bin\Debug\netcoreapp3.1\PracticaProperties.pdb
+C:\Users\Usuario\source\repos\PracticaProperties\PracticaProperties\obj\Debug\netcoreapp3.1\PracticaProperties.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\PracticaProperties\PracticaProperties\obj\Debug\netcoreapp3.1\PracticaProperties.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\PracticaProperties\PracticaProperties\obj\Debug\netcoreapp3.1\PracticaProperties.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\PracticaProperties\PracticaProperties\obj\Debug\netcoreapp3.1\PracticaProperties.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\PracticaProperties\PracticaProperties\obj\Debug\netcoreapp3.1\PracticaProperties.dll
+C:\Users\Usuario\source\repos\PracticaProperties\PracticaProperties\obj\Debug\netcoreapp3.1\PracticaProperties.pdb
+C:\Users\Usuario\source\repos\PracticaProperties\PracticaProperties\obj\Debug\netcoreapp3.1\PracticaProperties.genruntimeconfig.cache
