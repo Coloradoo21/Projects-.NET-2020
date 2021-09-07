@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\pruebitas\pruebitas\bin\Debug\pruebitas.exe.config
+C:\Users\Usuario\source\repos\pruebitas\pruebitas\bin\Debug\pruebitas.exe
+C:\Users\Usuario\source\repos\pruebitas\pruebitas\bin\Debug\pruebitas.pdb
+C:\Users\Usuario\source\repos\pruebitas\pruebitas\obj\Debug\pruebitas.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\pruebitas\pruebitas\obj\Debug\pruebitas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\pruebitas\pruebitas\obj\Debug\pruebitas.exe
+C:\Users\Usuario\source\repos\pruebitas\pruebitas\obj\Debug\pruebitas.pdb
