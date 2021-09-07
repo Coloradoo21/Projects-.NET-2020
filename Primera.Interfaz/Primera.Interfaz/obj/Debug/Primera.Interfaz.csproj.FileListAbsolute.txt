@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\Primera.Interfaz\Primera.Interfaz\bin\Debug\Primera.Interfaz.exe.config
+C:\Users\Usuario\source\repos\Primera.Interfaz\Primera.Interfaz\bin\Debug\Primera.Interfaz.exe
+C:\Users\Usuario\source\repos\Primera.Interfaz\Primera.Interfaz\bin\Debug\Primera.Interfaz.pdb
+C:\Users\Usuario\source\repos\Primera.Interfaz\Primera.Interfaz\obj\Debug\Primera.Interfaz.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Primera.Interfaz\Primera.Interfaz\obj\Debug\MainWindow.g.cs
+C:\Users\Usuario\source\repos\Primera.Interfaz\Primera.Interfaz\obj\Debug\App.g.cs
+C:\Users\Usuario\source\repos\Primera.Interfaz\Primera.Interfaz\obj\Debug\Primera.Interfaz_MarkupCompile.cache
+C:\Users\Usuario\source\repos\Primera.Interfaz\Primera.Interfaz\obj\Debug\Primera.Interfaz_MarkupCompile.lref
+C:\Users\Usuario\source\repos\Primera.Interfaz\Primera.Interfaz\obj\Debug\MainWindow.baml
+C:\Users\Usuario\source\repos\Primera.Interfaz\Primera.Interfaz\obj\Debug\Primera.Interfaz.g.resources
+C:\Users\Usuario\source\repos\Primera.Interfaz\Primera.Interfaz\obj\Debug\Primera.Interfaz.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Primera.Interfaz\Primera.Interfaz\obj\Debug\Primera.Interfaz.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Primera.Interfaz\Primera.Interfaz\obj\Debug\Primera.Interfaz.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Primera.Interfaz\Primera.Interfaz\obj\Debug\Primera.Interfaz.exe
+C:\Users\Usuario\source\repos\Primera.Interfaz\Primera.Interfaz\obj\Debug\Primera.Interfaz.pdb
