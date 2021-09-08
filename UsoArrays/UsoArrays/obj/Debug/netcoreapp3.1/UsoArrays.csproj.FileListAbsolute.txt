@@ -1,0 +1,13 @@
+C:\Users\Usuario\source\repos\UsoArrays\UsoArrays\bin\Debug\netcoreapp3.1\UsoArrays.exe
+C:\Users\Usuario\source\repos\UsoArrays\UsoArrays\bin\Debug\netcoreapp3.1\UsoArrays.deps.json
+C:\Users\Usuario\source\repos\UsoArrays\UsoArrays\bin\Debug\netcoreapp3.1\UsoArrays.runtimeconfig.json
+C:\Users\Usuario\source\repos\UsoArrays\UsoArrays\bin\Debug\netcoreapp3.1\UsoArrays.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\UsoArrays\UsoArrays\bin\Debug\netcoreapp3.1\UsoArrays.dll
+C:\Users\Usuario\source\repos\UsoArrays\UsoArrays\bin\Debug\netcoreapp3.1\UsoArrays.pdb
+C:\Users\Usuario\source\repos\UsoArrays\UsoArrays\obj\Debug\netcoreapp3.1\UsoArrays.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\UsoArrays\UsoArrays\obj\Debug\netcoreapp3.1\UsoArrays.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\UsoArrays\UsoArrays\obj\Debug\netcoreapp3.1\UsoArrays.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\UsoArrays\UsoArrays\obj\Debug\netcoreapp3.1\UsoArrays.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\UsoArrays\UsoArrays\obj\Debug\netcoreapp3.1\UsoArrays.dll
+C:\Users\Usuario\source\repos\UsoArrays\UsoArrays\obj\Debug\netcoreapp3.1\UsoArrays.pdb
+C:\Users\Usuario\source\repos\UsoArrays\UsoArrays\obj\Debug\netcoreapp3.1\UsoArrays.genruntimeconfig.cache
